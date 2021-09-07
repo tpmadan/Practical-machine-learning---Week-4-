@@ -1,6 +1,4 @@
-# Predict activity quality from activity monitors
-Onur Akpolat  
-24. January 2015  
+# Predict activity quality from activity monitor 
 
 ##Synopsis
 
